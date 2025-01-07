@@ -4,7 +4,7 @@
 ░╚═══██╗██╔══██║██╔═══╝░██╔═══╝░██╔══██║╚═╝██║░░██╔══██╗░╚═══██╗ \
 ██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝ \
 ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░ \
-              A Bitburner scriptpack by starg3n
+              A Bitburner scriptpack by LOVEWAREZ
 
 # Intro
 you are now a proud owner of the sapph1r3! scriptpack! \
@@ -57,6 +57,6 @@ to integrate them into your workflow.
 
 
 ## THE END
-https://github.com/starg3n/sapph1r3/tree/main
-https://github.com/starg3n/sapph1r3/tree/main
-https://github.com/starg3n/sapph1r3/tree/main
+https://github.com/LOVEWAREZ/sapph1r3/tree/main
+https://github.com/LOVEWAREZ/sapph1r3/tree/main
+https://github.com/LOVEWAREZ/sapph1r3/tree/main
